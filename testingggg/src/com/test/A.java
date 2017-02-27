@@ -5,6 +5,7 @@ public interface A {
 	{
 		System.out.println("hi");
 		System.out.println("hi");
+		System.out.println("helloooooo");
 	}
 
 }
