@@ -7,6 +7,7 @@ public class SimpleGitTest {
 
 		System.out.println("welcome to the Git");
 		System.out.println("welcome to the Git1111");
+		System.out.println("welcome to the Git2222");
 		
 	}
 
